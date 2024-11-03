@@ -1,0 +1,11 @@
+plugins {
+    id 'application'
+}
+
+application {
+    mainClass = 'org.p2p.peer.PeerNode'
+}
+
+dependencies {
+    // Add any dependencies needed for the peer node
+}

@@ -1,0 +1,11 @@
+plugins {
+    id 'application'
+}
+
+application {
+    mainClass = 'org.p2p.bootstrap.BootstrapNode'
+}
+
+dependencies {
+    // Add any dependencies needed for the bootstrap node
+}
